@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-HOWDY!!
+
+:smile:
+
 Use the left arrow to go back!
